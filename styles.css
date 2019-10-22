@@ -16,3 +16,10 @@ body {
     background-color: #81ecec;
     color: white;
 }
+/* Photo by Artem Ivanchencko on Unsplash */
+.hero-background-img {
+    background-image: url("artem-ivanchencko-1zXvrRtH0CA-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
