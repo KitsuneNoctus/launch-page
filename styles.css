@@ -1,0 +1,13 @@
+body {
+    color:green;
+}
+
+.navbar {
+    padding 1rem;
+    background-color: #74b9ff;
+}
+
+.footer {
+    background-color: #0984e3;
+    color: blue;
+}
