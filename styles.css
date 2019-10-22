@@ -11,3 +11,8 @@ body {
     background-color: #0984e3;
     color: blue;
 }
+
+.btn-primary:hover {
+    background-color: #81ecec;
+    color: white;
+}
